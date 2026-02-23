@@ -1,1 +1,0 @@
-![Evidencia](WhatsApp Image 2026-02-22 at 5.20.03 PM.jpeg)

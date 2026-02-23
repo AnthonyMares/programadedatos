@@ -12,4 +12,5 @@ print("Escriba su primer nombre:");
   String e = stdin.readLineSync() ?? "";
   print("Cual es su fecha de nacimiento:");
   String f = stdin.readLineSync() ?? "";
+  print("Nombre completo: $a $b, Apellido: $c $d, Edad: $e, Fecha de nacimiento: $f");
   }

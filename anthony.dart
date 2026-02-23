@@ -8,4 +8,8 @@ print("Escriba su primer nombre:");
   String c = stdin.readLineSync() ?? "";
   print("Escriba su segundo apellido:");
   String d = stdin.readLineSync() ?? "";
+  print("Que edad tiene:");
+  String e = stdin.readLineSync() ?? "";
+  print("Cual es su fecha de nacimiento:");
+  String f = stdin.readLineSync() ?? "";
   }
